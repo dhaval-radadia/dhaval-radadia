@@ -36,7 +36,7 @@ func GetBio() Bio {
 
 
   <a href="https://in.linkedin.com/company/plus-infosys/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  height="30" width="30">
   </a>
 
 
